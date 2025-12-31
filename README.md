@@ -12,21 +12,24 @@
   <a href="mailto:mo.ali.jama@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-Data analyst in transition (HEG Business Economics + Google Data Analytics cert). Transforming messy data into insights via SQL, Python, Power BI.
+## 🚀 About Me
+Data Analyst passionné par la transformation des données en insights actionnables. Titulaire d'un **Bachelor en Économie d'Entreprise (HEG)** et **certifié Google Data Analytics**, je combine une solide formation business avec des compétences techniques avancées en SQL, Python et Business Intelligence.
 
-At Hospice Général (assistant social, 2023–Present), built Power Query automation for team planning schedules alongside monthly reports.
+Fort de mon expérience dans le secteur public et de mes projets personnels, je maîtrise l'ensemble du cycle d'analyse de données : de la collecte et nettoyage jusqu'à la visualisation et la communication de résultats complexes.
 
-Basketball coaching & tactical gaming fuel my analytical edge. Background in admin/finance optimization at HUG & Ville de Carouge.
+Mes projets couvrent différents domaines : **santé publique**, **éducation**, **gestion de bibliothèque** et **analyse d'entreprise**.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://malijama.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Featured Projects
 
-- **Library Management System:** Complete SQL/PostgreSQL system with 4 relational tables, 19 advanced queries using window functions like DENSE_RANK and CROSS JOIN for borrowing delays and      member segmentation  
-- **COVID-19 Time Series Analysis:** SQL/PostgreSQL temporal analysis tracking case evolution, mortality rates, and weekly growth with LAG functions and KPIs like epidemic duration per country.
-- **Global Education Systems Analysis:** Python/Pandas exploratory analysis of educational data with Jupyter and Matplotlib visualizations.
+- **[COVID-19 Analysis avec PostgreSQL](https://github.com/malijama/covid-analysis-postgresql):** Analyse approfondie des données COVID-19 utilisant des requêtes SQL avancées, des fonctions fenêtres (LAG, ROW_NUMBER) et des analyses temporelles pour suivre l'évolution des cas et de la mortalité (~430,000 records).
+
+- **[Audit Analytique Cabinet Dentaire](https://github.com/malijama/audit-cabinet-dentaire):** Audit complet d'un cabinet dentaire multi-sites avec interface interactive Streamlit. Analyse des performances, revenus et tendances par praticien, ville et type de soin.
+
+- **[Système de Gestion de Bibliothèque](https://github.com/malijama/library-management-postgresql):** Base de données PostgreSQL complète avec 19 requêtes avancées. Utilisation de DENSE_RANK, CROSS JOIN et modélisation relationnelle pour la segmentation des membres et la gestion des emprunts.
+
+- **[Analyse des Systèmes Éducatifs Mondiaux](https://github.com/malijama/Analyse-des-systemes-educatifs-mondiaux):** Analyse exploratoire approfondie des systèmes éducatifs à l'échelle mondiale utilisant Python, Pandas, Matplotlib et Seaborn pour visualiser les tendances et patterns dans l'éducation.
 
 ## 🌱 Currently Learning 
 
@@ -35,25 +38,26 @@ Basketball coaching & tactical gaming fuel my analytical edge. Background in adm
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### Langages & Bases de données
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL%2FPostgreSQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL/PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Python-Pandas%2C%20Matplotlib%2C%20Plotly-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Power%20Query%20(M)-ETL%20%26%20Transformation-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power Query Badge">
+  <img src="https://img.shields.io/badge/VBA-Automation-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="VBA Badge">
 </p>
 
-#### Programming & Automation
+#### Visualisation & BI
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards%2C%20DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge">
+  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Analysis-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Outils & Méthodologies
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Experienced-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Git%2FGitHub-Version%20Control-181717?style=flat&logo=github&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20ETL-Data%20Engineering-4ECDC4?style=flat" alt="ETL Badge">
+  <img src="https://img.shields.io/badge/Window%20Functions-SQL%20Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="Window Functions Badge">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-96CEB4?style=flat" alt="Data Modeling Badge">
 </p>
