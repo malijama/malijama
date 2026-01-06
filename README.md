@@ -12,7 +12,7 @@
   <a href="mailto:mo.ali.jama@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me
+## 🚀 À Propos
 Data Analyst passionné par la transformation des données en insights actionnables. Titulaire d'un **Bachelor en Économie d'Entreprise (HEG)** et **certifié Google Data Analytics**, je combine une solide formation business avec des compétences techniques avancées en SQL, Python et Business Intelligence.
 
 Fort de mon expérience dans le secteur public et de mes projets personnels, je maîtrise l'ensemble du cycle d'analyse de données : de la collecte et nettoyage jusqu'à la visualisation et la communication de résultats complexes.
@@ -21,22 +21,24 @@ Mes projets couvrent différents domaines : **santé publique**, **éducation**,
 
 ### [🏆 Check Out My Full Portfolio Website](https://malijama.github.io/)
       
-## 🔭 Featured Projects
+## 🔭 Projets en Vedette
+
+- **[🍕 Analyse des Ventes de Pizzas](https://github.com/malijama/pizza-sales-analysis):** Dashboard Power BI interactif avec 11 KPI business (CA total, tendances quotidiennes/mensuelles, répartition par catégorie et taille). Connexion SQL Server avec requêtes T-SQL avancées pour analyser les performances et identifier les top/bottom performers.
 
 - **[COVID-19 Analysis avec PostgreSQL](https://github.com/malijama/covid-analysis-postgresql):** Analyse approfondie des données COVID-19 utilisant des requêtes SQL avancées, des fonctions fenêtres (LAG, ROW_NUMBER) et des analyses temporelles pour suivre l'évolution des cas et de la mortalité (~430,000 records).
 
-- **[Audit Analytique Cabinet Dentaire](https://github.com/malijama/audit-cabinet-dentaire):** Audit complet d'un cabinet dentaire multi-sites avec interface interactive Streamlit. Analyse des performances, revenus et tendances par praticien, ville et type de soin.
+- **[Audit Analytique Cabinet Dentaire](https://github.com/malijama/audit-cabinet-dentaire):** Audit complet d'un cabinet dentaire multi-sites avec analyse exploratoire Python (Pandas, Jupyter). Dashboard Power BI en développement pour visualiser les performances, revenus et tendances par praticien et type de soin.
 
 - **[Système de Gestion de Bibliothèque](https://github.com/malijama/library-management-postgresql):** Base de données PostgreSQL complète avec 19 requêtes avancées. Utilisation de DENSE_RANK, CROSS JOIN et modélisation relationnelle pour la segmentation des membres et la gestion des emprunts.
 
-- **[Analyse des Systèmes Éducatifs Mondiaux](https://github.com/malijama/Analyse-des-systemes-educatifs-mondiaux):** Analyse exploratoire approfondie des systèmes éducatifs à l'échelle mondiale utilisant Python, Pandas, Matplotlib et Seaborn pour visualiser les tendances et patterns dans l'éducation.
+- **[Analyse des Systèmes Éducatifs Mondiaux](https://github.com/malijama/Analyse-des-syst-mes-ducatifs-mondiaux):** Analyse exploratoire approfondie des systèmes éducatifs à l'échelle mondiale utilisant Python, Pandas, Matplotlib et Seaborn pour visualiser les tendances et patterns dans l'éducation.
 
-## 🌱 Currently Learning 
+## 🌱 Actuellement en Formation 
 
 - Mastering advanced SQL optimization techniques via LearnSQL
 - Preparing Power BI PL-300 certification through DataCamp
 
-## 🛠️ Technical Skillset
+## 🛠️ Compétences Techniques
 
 #### Langages & Bases de données
 <p>
